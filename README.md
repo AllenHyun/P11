@@ -192,8 +192,8 @@ function resize(){
 ```
 
 ## Resultado_imágenes
-<img width="980" height="1064" alt="image" src="https://github.com/user-attachments/assets/f4ee3a34-24d5-4eb6-a431-2b7ab95faa9b" />
-<segunda foto>
+<img width="280" height="263" alt="image" src="images/figura_1.png" />
+<img width="280" height="263" alt="image" src="images/figura_2.png" />
 
 
 ## Webgrafía
